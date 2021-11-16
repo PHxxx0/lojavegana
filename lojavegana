@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+<Head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width-device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css?family=Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Caveat:400,700&subset=cyrillic" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+    <title>Loja Vegana</title>
+    <link rel="styleheet" href="indexx.css" type="text/css">
+</Head> 
+  
+<body>
+
+    <Header>
+    
+    <nav> 
+        <img id="logo" src="https://mobirise.com/extensions/organicamp/assets/images/logo1.jpg" alt="logo" />
+        <div>
+            <div class="dropdown-wrapper">
+                <a class="menu-item">Demo Pages<i class="fas fa-caret-down"></i></a>
+                <div class="dropdown">
+                   <a>Menu Item 1</a>
+                   <a>Menu Item 1</a>
+                   <a>Menu Item 1</a>
+               </div>
+           </div>
+           
+           <a class="menu-item">Watch Video</i></a>
+           
+           <div class="dropdown-wrapper">
+           <a class="menu-item">Blocks<i class="fas fa-caret-down"></i></a>
+           </div>
+           <button class="primary-button">Comprar Agora</button>
+       </div>
+   </nav>
+    
+  <section id="landing-section">
+      <div id="main-text-wrapper">
+           <h1>Modelo de site simples de loja vegana</h1>
+           <p>
+              Com a nutrição, todas as funções vitais do corpo estão conectadas. É a fonte
+              do desenvolvimento dos tecidos e células, de sua constante
+              renovação, da saturação do homem de energia
+              </p>
+          </div>
+      </section>
+  </Header>
+          
+          
+   </body>    
+   <main>
+      <!-- Seção 1 -->
+      <section id="steps-section">
+         <div id="first-step" class="step-item">
+             <i class="fas fa-cut"></i>
+             <h3>Passo 01.</h3>
+             <p>Os vegetais são parte integrante da
+              dieta humana. São extremamente úteis devido
+              ao alto teor de carboidratos, vários ácidos,
+              vitaminas e ativos na forma, de fácil digestão.</p>
+           </div>
+           <div id="second-step" class="step-item">
+           <i class="fas fa-paint-brush"></i>
+           <h3>Passo 02.</h3>
+           <p>
+            Os vegetais frescos são ideais para repor a perda de minerais.
+          Esses vegetais contém uma grande quantidade de ácido que nosso 
+       corpo precisa para um trabalho completo</p>
+       </div>
+       <div id="third-step" class="step-item">
+            <i class="fas fa-shopping-bag"></i>
+            <h3>Passo 03.</h3>
+            <p>
+            No teor da vitamina C, o pimentão é superior
+            ao limão e até a groselha! a maior quantidade de
+            vitamina está contida ao redor do pendúnculo, ou seja,
+            na parte do produto que costuma ser cortada durante a limpeza</p>
+       </div>
+       <div id="fourth-step" class="step-item">
+            <i class="far fa-smile"></i>
+            <h3>Passo 04.</h3>
+            <p>
+               Se você as vezes come pimenta malagueta,
+               isso ajudará a normalizar a circulação cerebral,
+               aliviará o quadro de asma brônquica, tosse, dor de garganta e
+               gripe
+             </p>
+            </div>
+         </section>
+         <!-- Fim da seção 1-->
+         <!-- Seção 2 -->
+         <section id="store-section">
+         <p id="fresh-food-heading">Comida Fresca</p>
+         <h3>Nossa Loja Vegan!</h3>
+         <p id="store-desc">0 rabanete contém muita fibra, pectina e sais minerais.</p>
+         <div id="store-items-wrapper">
+         <div class="store-item">
+         <div class="icon-wrapper"><i class="fa fa-camera"></i></div>
+         <h3>Vegetais frescos</h3>
+         <p>Use para cozinhar vários tipos de óleo vegetal.</p>
+         </div>
+         <div class="store-item">
+         <div class="icon-wrapper"><i class="fa-rocket fa"></i></div>
+         <h3>Alta qualidade</h3>
+         <p>Esta é a melhor fonte de ácidos graxos essenciais para o corpo.</p>
+         </div>
+         <div class="store-item">
+         <div class="icon-wrapper"><i class="fab fa-twitter"></i></div>
+         <h3>Venda</h3>
+         <p>
+         É muito bom, se na cozinha houver sempre várias
+         garrafas com óleos diferentes.
+         </p>
+         </div>
+         <div class="store-item">
+         <div class="icon-wrapper"><i class="fab fa-weixin"></i></div>
+         <h3>Melhor preço</h3>
+         <p>
+         Lembre-se de que óleos não refinados não são adequados
+         para tratamento térmico.
+         </p>
+         </div>
+         </div>
+         </section>
+         <!-- Fim da Seção 2 -->
+ </html>
